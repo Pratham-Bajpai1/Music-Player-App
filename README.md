@@ -6,6 +6,14 @@ This project was built as an assessment to demonstrate proficiency in modern And
 
 ---
 
+## 🚀 Get the App
+
+You can download and install the latest APK directly from the **Releases** page.
+
+**[➡️ Download the latest APK here](https://github.com/Pratham-Bajpai1/Music-Player-App/releases/tag/v1.0)**
+
+---
+
 ## 🚀 Features
 
 * **Dynamic Track Loading:** Fetches a list of popular tracks from the Jamendo API.
