@@ -4,9 +4,6 @@ A modern, native Android music player app built using Kotlin, Jetpack Compose, a
 
 This project was built as an assessment to demonstrate proficiency in modern Android development.
 
-
-*(You can add a screenshot or GIF of your running app here)*
-
 ---
 
 ## 🚀 Features
@@ -54,7 +51,7 @@ You will need a recent version of **Android Studio (Iguana or newer)** to build 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+    git clone [https://github.com/Pratham-Bajpai1/Music-Player-App.git](https://github.com/Pratham-Bajpai1/Music-Player-App.git)
     ```
 
 2.  **Get a Free API Key:**
